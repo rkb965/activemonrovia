@@ -1,0 +1,134 @@
+/* css styles */
+/* Add some color variables */
+:root {
+  --primary-color: #005c8a;
+  --secondary-color: #8cbb4d;
+  --accent-color: #f8a632;
+  --dark-color: #333333;
+  --light-color: #f4f4f4;
+}
+
+/* Style headings */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--primary-color);
+}
+
+/* Style links */
+a {
+  color: var(--primary-color);
+}
+
+a:hover {
+  color: var(--secondary-color);
+  text-decoration: underline;
+}
+
+/* Add a bottom border to navbar */
+.navbar {
+  border-bottom: 4px solid var(--secondary-color);
+}
+
+/* Style the footer */
+.footer {
+  background-color: var(--dark-color);
+  color: white;
+  padding: 1rem 0;
+  margin-top: 2rem;
+}
+
+/* Create a hero/banner for the homepage */
+.hero {
+  background-color: var(--light-color);
+  padding: 3rem 0;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+/* Style buttons */
+.btn-primary {
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+}
+
+.btn-primary:hover {
+  background-color: var(--secondary-color);
+  border-color: var(--secondary-color);
+}
+
+/* Add card styling */
+.card {
+  margin-bottom: 1.5rem;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.card-header {
+  background-color: var(--primary-color);
+  color: white;
+}
+
+/* Make tables more readable */
+table {
+  width: 100%;
+  margin-bottom: 1rem;
+  border-collapse: collapse;
+}
+
+table th {
+  background-color: var(--light-color);
+}
+
+table th, 
+table td {
+  padding: 0.5rem;
+  border: 1px solid #ddd;
+}
+
+/* Responsive image styling */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Callout box styling enhancements */
+.callout {
+  border-left-width: 5px;
+  margin-bottom: 1.5rem;
+}
+
+.callout-important {
+  border-left-color: #dc3545;
+}
+
+.callout-note {
+  border-left-color: var(--primary-color);
+}
+
+.callout-tip {
+  border-left-color: var(--secondary-color);
+}
+
+/* For the events page */
+.event-card {
+  border-left: 4px solid var(--accent-color);
+  padding-left: 1rem;
+  margin-bottom: 2rem;
+}
+
+/* For route maps */
+.map-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  height: 0;
+  overflow: hidden;
+  margin-bottom: 1rem;
+}
+
+.map-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}

@@ -1,0 +1,36 @@
+---
+title: "Welcome to Active Monrovia"
+---
+
+## Our Mission
+
+We promote safe, healthy, and sustainable active transportation options for all Monrovia residents. Our organization focuses on making walking, biking, and rolling accessible to everyone in our community.
+
+## Upcoming Events
+
+:::{.callout-note}
+### National Walk, Bike & Roll to School Day
+**Wednesday, May 7, 2025**
+
+Join us for Monrovia's Walk, Bike & Roll to School Day! Meet at designated starting points for a fun group commute to school. Parents and guardians welcome!
+
+[Learn more →](events.qmd#walk-bike-roll)
+:::
+
+:::{.callout-note}
+### Monrovia Days Parade
+**Saturday, May 17, 2025**
+
+We'll be participating in the Monrovia Days Parade with a decorated bike procession. Join our contingent by signing up below!
+
+[Learn more →](events.qmd#monrovia-days)
+:::
+
+## Get Involved
+
+Active transportation makes our community healthier, more connected, and more sustainable. Here's how you can participate:
+
+- [Check our routes](routes.qmd) to school
+- [View upcoming events](events.qmd) and join us
+- [Volunteer](about.qmd#volunteer) with our organization
+- [Contact us](about.qmd#contact) with questions or ideas

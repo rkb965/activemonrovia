@@ -1,0 +1,15 @@
+---
+title: "Walk and Bike Bus Routes"
+---
+
+### Weekly Bike Bus Route Map
+
+Below is our interactive map showing recommended routes to Monrovia schools. Click on a route to see details.
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1UmfLqu91b88dN3Jy9J3peev46ZpOaNg&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
+
+
+### MUSD Safe Passageways
+
+MUSD has a slideshow of recommended routes when leaving school. [Learn more →](https://www.monroviaschools.net/apps/pages/index.jsp?uREC_ID=3301326&type=d&pREC_ID=2423917)
+

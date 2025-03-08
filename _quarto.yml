@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Active Monrovia"
+  navbar:
+    background: primary
+    logo: images/logo-tmp.png
+    left:
+      - href: index.qmd
+        text: Home
+      - href: events.qmd
+        text: Events
+      - href: routes.qmd
+        text: Routes
+      - href: resources.qmd
+        text: Resources
+      - href: about.qmd
+        text: About
+  page-footer:
+    center: "made with love and Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
